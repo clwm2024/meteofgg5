@@ -1,4 +1,3 @@
-streamlit
 matplotlib
 statsmodels.api
 sklearn.linear_model
