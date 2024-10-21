@@ -1,7 +1,0 @@
-matplotlib
-statsmodels.api
-sklearn.linear_model
-seaborn
-scipy.stats
-pandas
-numpy
