@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from scipy.stats import pearsonr, stats
 import seaborn as sns
-#from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 import statsmodels.api as sm
 import streamlit as st
 
